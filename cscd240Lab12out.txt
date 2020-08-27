@@ -1,0 +1,65 @@
+Enter a file name: stocks2.txt
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 0
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 5
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 1
+Weisser Electric. - EWR - 78.45
+Hartman Floral - HTF - 23.28
+Marvel Grand Co. - MG - 38.20
+Mix Technologies - MT - 45.09
+Razer Co. - RZR - 12.05
+Public Radical - TPR - 90.51
+Wellender Inc. - WELL - 69.91
+Cross-Newman Machinery - XNM - 17.40
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 2
+Cross-Newman Machinery - XNM - 17.40
+Hartman Floral - HTF - 23.28
+Marvel Grand Co. - MG - 38.20
+Mix Technologies - MT - 45.09
+Public Radical - TPR - 90.51
+Razer Co. - RZR - 12.05
+Weisser Electric. - EWR - 78.45
+Wellender Inc. - WELL - 69.91
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 3
+Razer Co. - RZR - 12.05
+Cross-Newman Machinery - XNM - 17.40
+Hartman Floral - HTF - 23.28
+Marvel Grand Co. - MG - 38.20
+Mix Technologies - MT - 45.09
+Wellender Inc. - WELL - 69.91
+Weisser Electric. - EWR - 78.45
+Public Radical - TPR - 90.51
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 4
+all done
